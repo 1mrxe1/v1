@@ -2,7 +2,7 @@ import sys
 import subprocess
 
 
-CACHE_FILE = "xxx"  # اسم ملف الكاش
+CACHE_FILE = "xxx.txt"  # اسم ملف الكاش
 
 def install_if_missing(package):
     """
